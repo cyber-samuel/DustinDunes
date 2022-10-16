@@ -18,3 +18,7 @@ Don't try to learn math in one weekend and then implement it in an algorithm.
 
 ## What's next for us
 We're looking at drone models to further implement a demo in the future.
+
+## References:
+
+[https://arxiv.org/pdf/1803.03526.pdf](Geodesic Voronoi Tessellation) - partitioning the field
