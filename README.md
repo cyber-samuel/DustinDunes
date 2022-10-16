@@ -21,4 +21,4 @@ We're looking at drone models to further implement a demo in the future.
 
 ## References:
 
-[https://arxiv.org/pdf/1803.03526.pdf](Geodesic Voronoi Tessellation) - partitioning the field
+[Geodesic Voronoi Tessellation](https://arxiv.org/pdf/1803.03526.pdf) - partitioning the field
