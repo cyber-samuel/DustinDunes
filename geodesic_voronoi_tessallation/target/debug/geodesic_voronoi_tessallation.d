@@ -1,0 +1,1 @@
+/Users/samv/uiowahack/geodesic_voronoi_tessallation/target/debug/geodesic_voronoi_tessallation: /Users/samv/uiowahack/geodesic_voronoi_tessallation/src/main.rs /Users/samv/uiowahack/geodesic_voronoi_tessallation/src/manifold.rs
